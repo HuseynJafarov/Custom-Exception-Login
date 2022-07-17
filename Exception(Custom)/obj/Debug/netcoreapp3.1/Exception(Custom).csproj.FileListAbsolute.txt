@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\bin\Debug\netcoreapp3.1\Exception(Custom).exe
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\bin\Debug\netcoreapp3.1\Exception(Custom).deps.json
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\bin\Debug\netcoreapp3.1\Exception(Custom).runtimeconfig.json
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\bin\Debug\netcoreapp3.1\Exception(Custom).runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\bin\Debug\netcoreapp3.1\Exception(Custom).dll
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\bin\Debug\netcoreapp3.1\Exception(Custom).pdb
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).dll
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).pdb
+C:\Users\HP\Desktop\C#\CodeClassWork\Exception(Custom)\Exception(Custom)\obj\Debug\netcoreapp3.1\Exception(Custom).genruntimeconfig.cache

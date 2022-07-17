@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zt8DOFQz7yVLU85jNBbO5VJ6LWmrgstqbYgNsMP9eDlJkwoA6YiNxmTs0BcXw24c2Xm7n+qd3XVvyZcmF8cKqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\C#\\CodeClassWork\\Exception(Custom)\\Exception(Custom)\\Exception(Custom).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
